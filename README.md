@@ -89,4 +89,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/rudhbrick/neetcode-submissions/tree/master/0382-linked-list-random-node) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
