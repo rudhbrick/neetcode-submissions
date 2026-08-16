@@ -93,6 +93,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -117,5 +118,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Depth-First Search
 |  |
 | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
