@@ -129,6 +129,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/rudhbrick/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,6 +161,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0993-cousins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/rudhbrick/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -169,4 +171,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/rudhbrick/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
