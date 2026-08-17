@@ -101,6 +101,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0700-search-in-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1145-binary-tree-coloring-game](https://github.com/rudhbrick/neetcode-submissions/tree/master/1145-binary-tree-coloring-game) |
 ## Binary Search Tree
 |  |
@@ -108,6 +109,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -118,11 +120,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0700-search-in-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1145-binary-tree-coloring-game](https://github.com/rudhbrick/neetcode-submissions/tree/master/1145-binary-tree-coloring-game) |
 ## Array
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +145,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -153,4 +158,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0993-cousins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
