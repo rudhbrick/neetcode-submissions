@@ -99,6 +99,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0606-construct-string-from-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/rudhbrick/neetcode-submissions/tree/master/1145-binary-tree-coloring-game) |
 ## Binary Search Tree
 |  |
@@ -114,6 +115,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0606-construct-string-from-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/rudhbrick/neetcode-submissions/tree/master/1145-binary-tree-coloring-game) |
 ## Array
 |  |
@@ -130,6 +132,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/rudhbrick/neetcode-submissions/tree/master/1145-binary-tree-coloring-game) |
 ## Stack
 |  |
@@ -139,4 +142,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->
