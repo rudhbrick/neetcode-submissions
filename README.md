@@ -141,6 +141,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0684-redundant-connection](https://github.com/rudhbrick/neetcode-submissions/tree/master/0684-redundant-connection) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/rudhbrick/neetcode-submissions/tree/master/1145-binary-tree-coloring-game) |
@@ -160,6 +161,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/rudhbrick/neetcode-submissions/tree/master/0684-redundant-connection) |
 | [0993-cousins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudhbrick/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -175,4 +177,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudhbrick/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/rudhbrick/neetcode-submissions/tree/master/0684-redundant-connection) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/rudhbrick/neetcode-submissions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
