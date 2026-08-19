@@ -81,6 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rudhbrick/neetcode-submissions/tree/master/0062-unique-paths) |
 | [0382-linked-list-random-node](https://github.com/rudhbrick/neetcode-submissions/tree/master/0382-linked-list-random-node) |
 ## Reservoir Sampling
 |  |
@@ -198,4 +199,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rudhbrick/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rudhbrick/neetcode-submissions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rudhbrick/neetcode-submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
