@@ -163,6 +163,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0606-construct-string-from-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
+| [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 ## DP on Trees
 |  |
 | ------- |
@@ -181,6 +182,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
@@ -198,6 +200,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rudhbrick/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
@@ -216,4 +219,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
