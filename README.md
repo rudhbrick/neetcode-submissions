@@ -133,6 +133,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
@@ -195,6 +196,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudhbrick/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
@@ -220,6 +222,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rudhbrick/neetcode-submissions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
