@@ -168,6 +168,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/rudhbrick/neetcode-submissions/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
@@ -224,6 +225,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0062-unique-paths](https://github.com/rudhbrick/neetcode-submissions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/rudhbrick/neetcode-submissions/tree/master/0091-decode-ways) |
 ## Combinatorics
 |  |
 | ------- |
