@@ -14,9 +14,7 @@ class Solution{
     public int getRandom(){
         int index=rand.nextInt(size);
         ListNode curr=head;
-        for(int i=0;i<index;i++){
-            curr=curr.next;
-        }
+        for(int i=0;i<index;i++) curr=curr.next;
         return curr.val;
     }
 }
