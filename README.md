@@ -176,6 +176,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0091-decode-ways](https://github.com/rudhbrick/neetcode-submissions/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/rudhbrick/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0606-construct-string-from-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rudhbrick/neetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -220,6 +221,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudhbrick/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/rudhbrick/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rudhbrick/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
@@ -245,6 +247,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudhbrick/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/rudhbrick/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
 | ------- |
