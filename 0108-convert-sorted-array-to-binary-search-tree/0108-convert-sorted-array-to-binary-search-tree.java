@@ -1,5 +1,5 @@
 class Solution{
-    public TreeNode build(int[] nums,int left,int right){
+    TreeNode build(int[] nums,int left,int right){
         if(left>right) return null;
         int mid=left+(right-left)/2;
         TreeNode root=new TreeNode(nums[mid]);
