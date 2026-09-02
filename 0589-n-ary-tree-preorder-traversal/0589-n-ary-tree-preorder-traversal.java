@@ -6,9 +6,7 @@ class Solution{
         while(!st.isEmpty()){
             Node node=st.pop();
             result.add(node.val);
-            for(int i=node.children.size()-1;i>=0;i--){
-                st.push(node.children.get(i));
-            }
+            for(int i=node.children.size()-1;i>=0;i--) st.push(node.children.get(i));
         }
         return result;
     }
