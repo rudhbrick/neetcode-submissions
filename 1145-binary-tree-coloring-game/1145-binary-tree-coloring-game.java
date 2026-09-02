@@ -1,6 +1,5 @@
 class Solution{
-    int leftSize=0;
-    int rightSize=0;
+    int leftSize=0,rightSize=0;
     int dfs(TreeNode root,int x){
         if(root==null) return 0;
         int left=dfs(root.left,x);
