@@ -2,10 +2,8 @@ class Solution{
     int moves=0;
     int dfs(TreeNode root){
         if(root==null) return 0;
-        int leftBalance=dfs(root.left);
-        int rightBalance=dfs(root.right);
-        moves+=Math.abs(leftBalance);
-        moves+=Math.abs(rightBalance);
+        int leftBalance=dfs(root.left),rightBalance=dfs(root.right);
+        moves+=Math.abs(leftBalance)+Math.abs(rightBalance);
         return root.val+leftBalance+rightBalance-1;
     }
     public int distributeCoins(TreeNode root){
