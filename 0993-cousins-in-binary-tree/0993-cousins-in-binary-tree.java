@@ -1,8 +1,6 @@
 class Solution{
-    int xDepth=-1;
-    int yDepth=-1;
-    TreeNode xParent=null;
-    TreeNode yParent=null;
+    int xDepth=-1,yDepth=-1;
+    TreeNode xParent=null,yParent=null;
     void dfs(TreeNode root,TreeNode parent,int depth,int x,int y){
         if(root==null) return;
         if(root.val==x){
