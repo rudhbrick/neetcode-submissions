@@ -2,7 +2,7 @@ class Solution{
     public long kthLargestLevelSum(TreeNode root,int k){
         Queue<TreeNode> q=new LinkedList<>();
         List<Long> sums=new ArrayList<>();
-        q.offer(root);
+        if(root!=null) q.offer(root);
         while(!q.isEmpty()){
             int size=q.size();
             long sum=0;
