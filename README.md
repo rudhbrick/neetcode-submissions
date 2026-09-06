@@ -141,6 +141,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/rudhbrick/neetcode-submissions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0454-4sum-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rudhbrick/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -245,6 +246,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/rudhbrick/neetcode-submissions/tree/master/0091-decode-ways) |
+| [0198-house-robber](https://github.com/rudhbrick/neetcode-submissions/tree/master/0198-house-robber) |
 ## Combinatorics
 |  |
 | ------- |
