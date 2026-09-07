@@ -305,4 +305,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0183-customers-who-never-order](https://github.com/rudhbrick/neetcode-submissions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/rudhbrick/neetcode-submissions/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/rudhbrick/neetcode-submissions/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/rudhbrick/neetcode-submissions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
