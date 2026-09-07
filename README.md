@@ -296,4 +296,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/rudhbrick/neetcode-submissions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
