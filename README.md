@@ -310,5 +310,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0185-department-top-three-salaries](https://github.com/rudhbrick/neetcode-submissions/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/rudhbrick/neetcode-submissions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/rudhbrick/neetcode-submissions/tree/master/0197-rising-temperature) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/rudhbrick/neetcode-submissions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/rudhbrick/neetcode-submissions/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
