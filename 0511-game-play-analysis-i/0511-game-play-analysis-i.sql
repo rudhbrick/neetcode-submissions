@@ -1,0 +1,1 @@
+SELECT player_id,MIN(event_date) AS first_Login FROM Activity GROUP BY player_id;
