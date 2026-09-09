@@ -319,4 +319,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0596-classes-with-at-least-5-students](https://github.com/rudhbrick/neetcode-submissions/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/rudhbrick/neetcode-submissions/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/rudhbrick/neetcode-submissions/tree/master/0608-tree-node) |
+| [0610-triangle-judgement](https://github.com/rudhbrick/neetcode-submissions/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
