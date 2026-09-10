@@ -1,0 +1,1 @@
+SELECT DISTINCT p.product_id,p.product_name FROM Product p JOIN Sales s1 ON p.product_id=s1.product_id WHERE NOT EXISTS (SELECT 1 FROM Sales s2 WHERE s2.product_id=s1.product_id AND s2.sale_date NOT BETWEEN '2019-01-01' AND '2019-03-31');
