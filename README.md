@@ -345,4 +345,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1211-queries-quality-and-percentage](https://github.com/rudhbrick/neetcode-submissions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/rudhbrick/neetcode-submissions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/rudhbrick/neetcode-submissions/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/rudhbrick/neetcode-submissions/tree/master/1321-restaurant-growth) |
 <!---LeetCode Topics End-->
