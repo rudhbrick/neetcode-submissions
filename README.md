@@ -344,4 +344,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1204-last-person-to-fit-in-the-bus](https://github.com/rudhbrick/neetcode-submissions/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/rudhbrick/neetcode-submissions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/rudhbrick/neetcode-submissions/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/rudhbrick/neetcode-submissions/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
