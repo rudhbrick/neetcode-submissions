@@ -351,4 +351,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rudhbrick/neetcode-submissions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/rudhbrick/neetcode-submissions/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/rudhbrick/neetcode-submissions/tree/master/1484-group-sold-products-by-the-date) |
+| [1517-find-users-with-valid-e-mails](https://github.com/rudhbrick/neetcode-submissions/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
