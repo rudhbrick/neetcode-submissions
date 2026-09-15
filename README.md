@@ -348,4 +348,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1321-restaurant-growth](https://github.com/rudhbrick/neetcode-submissions/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/rudhbrick/neetcode-submissions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/rudhbrick/neetcode-submissions/tree/master/1341-movie-rating) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rudhbrick/neetcode-submissions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
