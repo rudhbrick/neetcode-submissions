@@ -354,4 +354,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1517-find-users-with-valid-e-mails](https://github.com/rudhbrick/neetcode-submissions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/rudhbrick/neetcode-submissions/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rudhbrick/neetcode-submissions/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1587-bank-account-summary-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/1587-bank-account-summary-ii) |
 <!---LeetCode Topics End-->
