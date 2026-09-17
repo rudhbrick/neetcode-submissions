@@ -363,4 +363,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1729-find-followers-count](https://github.com/rudhbrick/neetcode-submissions/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/rudhbrick/neetcode-submissions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/rudhbrick/neetcode-submissions/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [1757-recyclable-and-low-fat-products](https://github.com/rudhbrick/neetcode-submissions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
