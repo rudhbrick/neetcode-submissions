@@ -1,0 +1,1 @@
+SELECT e.employee_id,e.department_id FROM Employee e JOIN (SELECT employee_id,COUNT(*) AS dept_count FROM Employee GROUP BY employee_id) d ON e.employee_id=d.employee_id WHERE e.primary_flag='Y' OR d.dept_count=1;
