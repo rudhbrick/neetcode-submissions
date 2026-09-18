@@ -368,4 +368,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1795-rearrange-products-table](https://github.com/rudhbrick/neetcode-submissions/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/rudhbrick/neetcode-submissions/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/rudhbrick/neetcode-submissions/tree/master/1890-the-latest-login-in-2020) |
+| [1907-count-salary-categories](https://github.com/rudhbrick/neetcode-submissions/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
