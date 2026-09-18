@@ -369,4 +369,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1873-calculate-special-bonus](https://github.com/rudhbrick/neetcode-submissions/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/rudhbrick/neetcode-submissions/tree/master/1890-the-latest-login-in-2020) |
 | [1907-count-salary-categories](https://github.com/rudhbrick/neetcode-submissions/tree/master/1907-count-salary-categories) |
+| [1934-confirmation-rate](https://github.com/rudhbrick/neetcode-submissions/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
