@@ -376,4 +376,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3220-odd-and-even-transactions](https://github.com/rudhbrick/neetcode-submissions/tree/master/3220-odd-and-even-transactions) |
 | [3436-find-valid-emails](https://github.com/rudhbrick/neetcode-submissions/tree/master/3436-find-valid-emails) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/rudhbrick/neetcode-submissions/tree/master/3465-find-products-with-valid-serial-numbers) |
+| [3475-dna-pattern-recognition](https://github.com/rudhbrick/neetcode-submissions/tree/master/3475-dna-pattern-recognition) |
 <!---LeetCode Topics End-->
