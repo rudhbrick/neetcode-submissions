@@ -372,4 +372,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1934-confirmation-rate](https://github.com/rudhbrick/neetcode-submissions/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/rudhbrick/neetcode-submissions/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/rudhbrick/neetcode-submissions/tree/master/1978-employees-whose-manager-left-the-company) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/rudhbrick/neetcode-submissions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
