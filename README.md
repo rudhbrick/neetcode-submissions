@@ -375,4 +375,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/rudhbrick/neetcode-submissions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/rudhbrick/neetcode-submissions/tree/master/3220-odd-and-even-transactions) |
 | [3436-find-valid-emails](https://github.com/rudhbrick/neetcode-submissions/tree/master/3436-find-valid-emails) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/rudhbrick/neetcode-submissions/tree/master/3465-find-products-with-valid-serial-numbers) |
 <!---LeetCode Topics End-->
