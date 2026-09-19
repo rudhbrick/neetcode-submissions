@@ -371,4 +371,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1907-count-salary-categories](https://github.com/rudhbrick/neetcode-submissions/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/rudhbrick/neetcode-submissions/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/rudhbrick/neetcode-submissions/tree/master/1965-employees-with-missing-information) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/rudhbrick/neetcode-submissions/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
