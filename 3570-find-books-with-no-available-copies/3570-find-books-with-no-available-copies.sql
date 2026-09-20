@@ -1,0 +1,1 @@
+SELECT b.book_id,b.title,b.author,b.genre,b.publication_year,br.current_borrowers FROM library_books b LEFT JOIN (SELECT book_id,COUNT(*) AS current_borrowers FROM borrowing_records WHERE return_date IS NULL GROUP BY book_id) br ON b.book_id=br.book_id WHERE br.current_borrowers=total_copies AND br.current_borrowers>0 ORDER BY br.current_borrowers DESC,b.title ASC;
