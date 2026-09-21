@@ -381,4 +381,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3521-find-product-recommendation-pairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/3521-find-product-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/rudhbrick/neetcode-submissions/tree/master/3564-seasonal-sales-analysis) |
 | [3570-find-books-with-no-available-copies](https://github.com/rudhbrick/neetcode-submissions/tree/master/3570-find-books-with-no-available-copies) |
+| [3580-find-consistently-improving-employees](https://github.com/rudhbrick/neetcode-submissions/tree/master/3580-find-consistently-improving-employees) |
 <!---LeetCode Topics End-->
