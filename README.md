@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/rudhbrick/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
