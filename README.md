@@ -108,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0111-minimum-depth-of-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -142,6 +143,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0111-minimum-depth-of-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
@@ -180,6 +182,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0111-minimum-depth-of-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -229,6 +232,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0102-binary-tree-level-order-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/rudhbrick/neetcode-submissions/tree/master/0684-redundant-connection) |
 | [0993-cousins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudhbrick/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
