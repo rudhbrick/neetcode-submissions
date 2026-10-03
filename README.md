@@ -211,6 +211,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/rudhbrick/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0606-construct-string-from-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
@@ -265,6 +266,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0112-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/rudhbrick/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/rudhbrick/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rudhbrick/neetcode-submissions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rudhbrick/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0993-cousins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
@@ -290,10 +292,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rudhbrick/neetcode-submissions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/rudhbrick/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rudhbrick/neetcode-submissions/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/rudhbrick/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rudhbrick/neetcode-submissions/tree/master/0684-redundant-connection) |
 ## Hash Table
 |  |
