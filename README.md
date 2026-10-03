@@ -179,6 +179,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/rudhbrick/neetcode-submissions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/rudhbrick/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0454-4sum-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rudhbrick/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -204,6 +205,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0112-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/rudhbrick/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -259,6 +261,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0104-maximum-depth-of-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/rudhbrick/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/rudhbrick/neetcode-submissions/tree/master/0684-redundant-connection) |
 | [0993-cousins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
@@ -277,10 +280,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/rudhbrick/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudhbrick/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rudhbrick/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/rudhbrick/neetcode-submissions/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
