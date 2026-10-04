@@ -85,6 +85,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0203-remove-linked-list-elements](https://github.com/rudhbrick/neetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/rudhbrick/neetcode-submissions/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
