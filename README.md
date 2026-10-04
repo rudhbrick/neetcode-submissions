@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/rudhbrick/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0382-linked-list-random-node](https://github.com/rudhbrick/neetcode-submissions/tree/master/0382-linked-list-random-node) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -477,6 +478,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Topological Sort
 |  |
