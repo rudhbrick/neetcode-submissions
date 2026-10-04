@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/rudhbrick/neetcode-submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -363,6 +364,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/rudhbrick/neetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rudhbrick/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
