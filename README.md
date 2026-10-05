@@ -85,6 +85,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0141-linked-list-cycle](https://github.com/rudhbrick/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rudhbrick/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rudhbrick/neetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0206-reverse-linked-list) |
@@ -204,6 +205,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0148-sort-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -293,6 +295,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0148-sort-list) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
@@ -377,6 +380,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0141-linked-list-cycle](https://github.com/rudhbrick/neetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rudhbrick/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
@@ -508,4 +512,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rudhbrick/neetcode-submissions/tree/master/0207-course-schedule) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
