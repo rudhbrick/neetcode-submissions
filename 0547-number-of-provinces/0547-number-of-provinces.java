@@ -1,7 +1,7 @@
 class Solution{
     void dfs(int[][] isConnected,boolean[] visited,int city){
         visited[city]=true;
-        for(int j=0;j<isConnected[0].length;j++) if(isConnected[city][j]==1&&!visited[j]) dfs(isConnected,visited,j);
+        for(int j=0;j<isConnected.length;j++) if(isConnected[city][j]==1&&!visited[j]) dfs(isConnected,visited,j);
     }
     public int findCircleNum(int[][] isConnected){
         boolean[] visited=new boolean[isConnected.length];
