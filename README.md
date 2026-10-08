@@ -147,6 +147,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudhbrick/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/rudhbrick/neetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
@@ -190,6 +191,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudhbrick/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/rudhbrick/neetcode-submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rudhbrick/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
@@ -386,6 +388,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0148-sort-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rudhbrick/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudhbrick/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/rudhbrick/neetcode-submissions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
