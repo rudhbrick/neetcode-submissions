@@ -189,6 +189,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rudhbrick/neetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0027-remove-element) |
 | [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
@@ -305,6 +306,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0148-sort-list) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -388,6 +390,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rudhbrick/neetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0027-remove-element) |
