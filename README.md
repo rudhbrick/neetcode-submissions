@@ -201,6 +201,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0454-4sum-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rudhbrick/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/rudhbrick/neetcode-submissions/tree/master/0733-flood-fill) |
+| [0977-squares-of-a-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/rudhbrick/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rudhbrick/neetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -305,6 +306,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0148-sort-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0148-sort-list) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
@@ -400,6 +402,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0344-reverse-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/rudhbrick/neetcode-submissions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Memoization
 |  |
 | ------- |
