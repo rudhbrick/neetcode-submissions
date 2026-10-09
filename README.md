@@ -256,6 +256,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0234-palindrome-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rudhbrick/neetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -274,6 +275,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0443-string-compression](https://github.com/rudhbrick/neetcode-submissions/tree/master/0443-string-compression) |
 | [0606-construct-string-from-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
+| [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rudhbrick/neetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -413,6 +415,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0283-move-zeroes](https://github.com/rudhbrick/neetcode-submissions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/rudhbrick/neetcode-submissions/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/rudhbrick/neetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -558,4 +561,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rudhbrick/neetcode-submissions/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
