@@ -10,9 +10,9 @@ class Solution{
             left=i+1;
             right=n-1;
             while(left<right){
-                if(third+nums[left]+nums[right]<0){
+                if(nums[left]+nums[right]+third<0){
                     left++;
-                }else if(third+nums[left]+nums[right]>0){
+                }else if(nums[left]+nums[right]+third>0){
                     right--;
                 }else{
                     ans.add(Arrays.asList(third,nums[left],nums[right]));
