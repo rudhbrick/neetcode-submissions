@@ -195,6 +195,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0016-3sum-closest](https://github.com/rudhbrick/neetcode-submissions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/rudhbrick/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rudhbrick/neetcode-submissions/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/rudhbrick/neetcode-submissions/tree/master/0075-sort-colors) |
@@ -351,6 +352,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rudhbrick/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/rudhbrick/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/rudhbrick/neetcode-submissions/tree/master/0733-flood-fill) |
@@ -374,6 +376,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0001-two-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudhbrick/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/rudhbrick/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rudhbrick/neetcode-submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/rudhbrick/neetcode-submissions/tree/master/0141-linked-list-cycle) |
