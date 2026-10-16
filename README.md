@@ -151,6 +151,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudhbrick/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/rudhbrick/neetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/rudhbrick/neetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -214,6 +215,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0217-contains-duplicate](https://github.com/rudhbrick/neetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rudhbrick/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rudhbrick/neetcode-submissions/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rudhbrick/neetcode-submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/rudhbrick/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rudhbrick/neetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
@@ -420,6 +422,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0198-house-robber](https://github.com/rudhbrick/neetcode-submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/rudhbrick/neetcode-submissions/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rudhbrick/neetcode-submissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
@@ -668,4 +671,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
