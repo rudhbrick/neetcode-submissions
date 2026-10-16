@@ -219,6 +219,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0560-subarray-sum-equals-k](https://github.com/rudhbrick/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rudhbrick/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/rudhbrick/neetcode-submissions/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/rudhbrick/neetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/rudhbrick/neetcode-submissions/tree/master/0948-bag-of-tokens) |
@@ -411,6 +412,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0091-decode-ways](https://github.com/rudhbrick/neetcode-submissions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rudhbrick/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/rudhbrick/neetcode-submissions/tree/master/0198-house-robber) |
+| [0746-min-cost-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0845-longest-mountain-in-array) |
 ## Combinatorics
 |  |
