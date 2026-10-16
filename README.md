@@ -217,6 +217,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0322-coin-change](https://github.com/rudhbrick/neetcode-submissions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/rudhbrick/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rudhbrick/neetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0416-partition-equal-subset-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rudhbrick/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -420,6 +421,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0213-house-robber-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/rudhbrick/neetcode-submissions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/rudhbrick/neetcode-submissions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0845-longest-mountain-in-array) |
 ## Combinatorics
@@ -656,9 +658,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0279-perfect-squares](https://github.com/rudhbrick/neetcode-submissions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/rudhbrick/neetcode-submissions/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/rudhbrick/neetcode-submissions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/rudhbrick/neetcode-submissions/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
