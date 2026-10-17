@@ -298,6 +298,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudhbrick/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/rudhbrick/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/rudhbrick/neetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rudhbrick/neetcode-submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rudhbrick/neetcode-submissions/tree/master/0058-length-of-last-word) |
@@ -424,6 +425,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rudhbrick/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/rudhbrick/neetcode-submissions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0070-climbing-stairs) |
@@ -483,6 +485,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rudhbrick/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/rudhbrick/neetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rudhbrick/neetcode-submissions/tree/master/0016-3sum-closest) |
@@ -723,4 +726,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rudhbrick/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
