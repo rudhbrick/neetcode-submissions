@@ -227,6 +227,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0518-coin-change-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rudhbrick/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rudhbrick/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/rudhbrick/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0845-longest-mountain-in-array) |
@@ -436,6 +437,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0416-partition-equal-subset-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
@@ -693,6 +695,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -709,4 +712,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0494-target-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
