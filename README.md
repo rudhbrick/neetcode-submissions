@@ -301,6 +301,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/rudhbrick/neetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/rudhbrick/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rudhbrick/neetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -363,6 +364,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rudhbrick/neetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/rudhbrick/neetcode-submissions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/rudhbrick/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rudhbrick/neetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Sorting
@@ -753,4 +755,9 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0155-min-stack](https://github.com/rudhbrick/neetcode-submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rudhbrick/neetcode-submissions/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/rudhbrick/neetcode-submissions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/rudhbrick/neetcode-submissions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
