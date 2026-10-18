@@ -231,6 +231,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0643-maximum-average-subarray-i](https://github.com/rudhbrick/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/rudhbrick/neetcode-submissions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/rudhbrick/neetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/rudhbrick/neetcode-submissions/tree/master/0881-boats-to-save-people) |
@@ -295,6 +296,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0234-palindrome-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0739-daily-temperatures](https://github.com/rudhbrick/neetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rudhbrick/neetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -355,6 +357,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/rudhbrick/neetcode-submissions/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Sorting
 |  |
