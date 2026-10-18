@@ -298,6 +298,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0155-min-stack](https://github.com/rudhbrick/neetcode-submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rudhbrick/neetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/rudhbrick/neetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/rudhbrick/neetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0503-next-greater-element-ii) |
@@ -328,6 +329,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0242-valid-anagram](https://github.com/rudhbrick/neetcode-submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/rudhbrick/neetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudhbrick/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/rudhbrick/neetcode-submissions/tree/master/0443-string-compression) |
@@ -665,6 +667,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0203-remove-linked-list-elements](https://github.com/rudhbrick/neetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0394-decode-string) |
 ## Topological Sort
 |  |
 | ------- |
