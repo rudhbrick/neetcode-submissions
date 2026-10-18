@@ -286,6 +286,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0143-reorder-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/rudhbrick/neetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -523,6 +524,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/rudhbrick/neetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Lifting
 |  |
@@ -730,4 +732,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rudhbrick/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rudhbrick/neetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
