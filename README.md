@@ -100,6 +100,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0062-unique-paths](https://github.com/rudhbrick/neetcode-submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rudhbrick/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/rudhbrick/neetcode-submissions/tree/master/0279-perfect-squares) |
 | [0382-linked-list-random-node](https://github.com/rudhbrick/neetcode-submissions/tree/master/0382-linked-list-random-node) |
 ## Reservoir Sampling
@@ -298,6 +299,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0150-evaluate-reverse-polish-notation](https://github.com/rudhbrick/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/rudhbrick/neetcode-submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rudhbrick/neetcode-submissions/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/rudhbrick/neetcode-submissions/tree/master/0402-remove-k-digits) |
@@ -329,6 +331,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0125-valid-palindrome](https://github.com/rudhbrick/neetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/rudhbrick/neetcode-submissions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0227-basic-calculator-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/rudhbrick/neetcode-submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
