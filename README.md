@@ -92,6 +92,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0234-palindrome-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/rudhbrick/neetcode-submissions/tree/master/0382-linked-list-random-node) |
+| [0622-design-circular-queue](https://github.com/rudhbrick/neetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Math
@@ -231,6 +232,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0503-next-greater-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rudhbrick/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/rudhbrick/neetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/rudhbrick/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/rudhbrick/neetcode-submissions/tree/master/0733-flood-fill) |
@@ -566,6 +568,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0225-implement-stack-using-queues](https://github.com/rudhbrick/neetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rudhbrick/neetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/rudhbrick/neetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/rudhbrick/neetcode-submissions/tree/master/0933-number-of-recent-calls) |
 ## Binary Lifting
 |  |
@@ -782,6 +785,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0155-min-stack](https://github.com/rudhbrick/neetcode-submissions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rudhbrick/neetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rudhbrick/neetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/rudhbrick/neetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/rudhbrick/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/rudhbrick/neetcode-submissions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
