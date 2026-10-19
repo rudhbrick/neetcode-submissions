@@ -315,6 +315,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rudhbrick/neetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2390-removing-stars-from-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## String
 |  |
 | ------- |
@@ -343,6 +344,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/1143-longest-common-subsequence) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## DP on Trees
 |  |
 | ------- |
@@ -699,6 +701,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0735-asteroid-collision](https://github.com/rudhbrick/neetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
 |  |
 | ------- |
