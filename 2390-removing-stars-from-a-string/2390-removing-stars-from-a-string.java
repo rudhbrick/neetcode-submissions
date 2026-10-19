@@ -3,7 +3,7 @@ class Solution{
         StringBuilder sb=new StringBuilder();
         Stack<Character> st=new Stack<>();
         for(char c:s.toCharArray()){
-            if(!st.isEmpty()&&c=='*'){
+            if(c=='*'){
                 st.pop();
             }else{
                 st.push(c);
