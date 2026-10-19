@@ -233,6 +233,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0643-maximum-average-subarray-i](https://github.com/rudhbrick/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/rudhbrick/neetcode-submissions/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/rudhbrick/neetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rudhbrick/neetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0845-longest-mountain-in-array) |
@@ -304,6 +305,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0503-next-greater-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0735-asteroid-collision](https://github.com/rudhbrick/neetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/rudhbrick/neetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/rudhbrick/neetcode-submissions/tree/master/0853-car-fleet) |
@@ -695,6 +697,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/rudhbrick/neetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
 ## Enumeration
 |  |
