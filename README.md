@@ -566,6 +566,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0225-implement-stack-using-queues](https://github.com/rudhbrick/neetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rudhbrick/neetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/rudhbrick/neetcode-submissions/tree/master/0933-number-of-recent-calls) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -782,8 +783,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0225-implement-stack-using-queues](https://github.com/rudhbrick/neetcode-submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rudhbrick/neetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/rudhbrick/neetcode-submissions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/rudhbrick/neetcode-submissions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/rudhbrick/neetcode-submissions/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/rudhbrick/neetcode-submissions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
