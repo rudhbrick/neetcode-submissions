@@ -254,6 +254,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rudhbrick/neetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rudhbrick/neetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rudhbrick/neetcode-submissions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -579,6 +580,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0933-number-of-recent-calls](https://github.com/rudhbrick/neetcode-submissions/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/rudhbrick/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rudhbrick/neetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rudhbrick/neetcode-submissions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -721,6 +723,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/rudhbrick/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rudhbrick/neetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/rudhbrick/neetcode-submissions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
 |  |
