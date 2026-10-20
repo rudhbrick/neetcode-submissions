@@ -253,6 +253,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1313-decompress-run-length-encoded-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rudhbrick/neetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/rudhbrick/neetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -321,6 +322,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rudhbrick/neetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/rudhbrick/neetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## String
 |  |
@@ -576,6 +578,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0649-dota2-senate](https://github.com/rudhbrick/neetcode-submissions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/rudhbrick/neetcode-submissions/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/rudhbrick/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/rudhbrick/neetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -717,6 +720,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0735-asteroid-collision](https://github.com/rudhbrick/neetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/rudhbrick/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/rudhbrick/neetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
 |  |
