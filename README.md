@@ -244,6 +244,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0881-boats-to-save-people](https://github.com/rudhbrick/neetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/rudhbrick/neetcode-submissions/tree/master/0948-bag-of-tokens) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/rudhbrick/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/rudhbrick/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -407,6 +408,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0853-car-fleet](https://github.com/rudhbrick/neetcode-submissions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/rudhbrick/neetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/rudhbrick/neetcode-submissions/tree/master/0948-bag-of-tokens) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/rudhbrick/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
@@ -573,6 +575,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0622-design-circular-queue](https://github.com/rudhbrick/neetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0649-dota2-senate](https://github.com/rudhbrick/neetcode-submissions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/rudhbrick/neetcode-submissions/tree/master/0933-number-of-recent-calls) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/rudhbrick/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -713,6 +716,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0735-asteroid-collision](https://github.com/rudhbrick/neetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/rudhbrick/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2390-removing-stars-from-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
 |  |
