@@ -344,6 +344,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0443-string-compression](https://github.com/rudhbrick/neetcode-submissions/tree/master/0443-string-compression) |
 | [0606-construct-string-from-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/rudhbrick/neetcode-submissions/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/rudhbrick/neetcode-submissions/tree/master/0649-dota2-senate) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rudhbrick/neetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -503,6 +504,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0011-container-with-most-water](https://github.com/rudhbrick/neetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/rudhbrick/neetcode-submissions/tree/master/0402-remove-k-digits) |
+| [0649-dota2-senate](https://github.com/rudhbrick/neetcode-submissions/tree/master/0649-dota2-senate) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/rudhbrick/neetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rudhbrick/neetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -569,6 +571,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0232-implement-queue-using-stacks](https://github.com/rudhbrick/neetcode-submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/rudhbrick/neetcode-submissions/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/rudhbrick/neetcode-submissions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/rudhbrick/neetcode-submissions/tree/master/0933-number-of-recent-calls) |
 ## Binary Lifting
 |  |
