@@ -243,6 +243,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0853-car-fleet](https://github.com/rudhbrick/neetcode-submissions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/rudhbrick/neetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
+| [0946-validate-stack-sequences](https://github.com/rudhbrick/neetcode-submissions/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/rudhbrick/neetcode-submissions/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/rudhbrick/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -319,6 +320,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0853-car-fleet](https://github.com/rudhbrick/neetcode-submissions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/rudhbrick/neetcode-submissions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rudhbrick/neetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/rudhbrick/neetcode-submissions/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -721,6 +723,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0735-asteroid-collision](https://github.com/rudhbrick/neetcode-submissions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/rudhbrick/neetcode-submissions/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/rudhbrick/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rudhbrick/neetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rudhbrick/neetcode-submissions/tree/master/2073-time-needed-to-buy-tickets) |
