@@ -10,9 +10,7 @@ class Solution{
             }
         }
         StringBuilder sb=new StringBuilder();
-        for(int[] pair:st){
-            for(int i=0;i<pair[1];i++) sb.append((char)pair[0]);
-        }
+        for(int pair[]:st) for(int i=0;i<pair[1];i++) sb.append((char)pair[0]);
         return sb.toString();
     }
 }
