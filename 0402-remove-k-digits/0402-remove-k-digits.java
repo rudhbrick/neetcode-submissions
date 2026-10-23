@@ -2,7 +2,7 @@ class Solution{
     public String removeKdigits(String num,int k){
         StringBuilder sb=new StringBuilder();
         for(char c:num.toCharArray()){
-            while(k>0&&sb.length()>0&&sb.charAt(sb.length()-1)>c){
+            while(sb.length()>0&&k>0&&sb.charAt(sb.length()-1)>c){
                 sb.deleteCharAt(sb.length()-1);
                 k--;
             }
