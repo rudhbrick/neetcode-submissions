@@ -5,10 +5,7 @@ class Solution{
         Arrays.fill(ans,-1);
         for(int i=0;i<2*nums.length;i++){
             int index=i%nums.length;
-            while(!st.isEmpty()&&nums[index]>nums[st.peek()]){
-                int old=st.pop();
-                ans[old]=nums[index];
-            }
+            while(!st.isEmpty()&&nums[index]>nums[st.peek()]) ans[st.pop()]=nums[index];
             if(i<nums.length) st.push(index);
         }
         return ans;
