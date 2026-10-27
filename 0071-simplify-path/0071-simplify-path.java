@@ -1,7 +1,7 @@
 class Solution{
     public String simplifyPath(String path){
-        StringBuilder sb=new StringBuilder();
         Stack<String> st=new Stack<>();
+        StringBuilder sb=new StringBuilder();
         String[] words=path.split("/");
         for(String word:words){
             if(word.equals("..")){
