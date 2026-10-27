@@ -3,17 +3,16 @@ class Solution{
         Stack<Integer> st=new Stack<>();
         for(String c:tokens){
             if(c.equals("+")||c.equals("-")||c.equals("*")||c.equals("/")){
-                int a=st.pop();
-                int b=st.pop();
-                switch (c.charAt(0)){
+                int a=st.pop(),b=st.pop();
+                switch(c.charAt(0)){
                     case '+':
-                        st.push(b+a);
+                        st.push(a+b);
                         break;
                     case '-':
                         st.push(b-a);
                         break;
                     case '*':
-                        st.push(b*a);
+                        st.push(a*b);
                         break;
                     case '/':
                         st.push(b/a);
