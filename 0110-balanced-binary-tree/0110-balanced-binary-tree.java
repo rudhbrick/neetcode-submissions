@@ -1,8 +1,7 @@
 class Solution{
     int dfs(TreeNode root){
         if(root==null) return 0;
-        int leftHeight=dfs(root.left);
-        int rightHeight=dfs(root.right);
+        int leftHeight=dfs(root.left),rightHeight=dfs(root.right);
         if(leftHeight==-1) return -1;
         if(rightHeight==-1) return -1;
         if(Math.abs(leftHeight-rightHeight)>1) return -1;
