@@ -1,7 +1,7 @@
 class Solution{
     public List<Integer> inorderTraversal(TreeNode root){
-        List<Integer> ans=new ArrayList<>();
         Stack<TreeNode> st=new Stack<>();
+        List<Integer> ans=new ArrayList<>();
         TreeNode curr=root;
         while(curr!=null||!st.isEmpty()){
             while(curr!=null){
