@@ -108,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0062-unique-paths](https://github.com/rudhbrick/neetcode-submissions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rudhbrick/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/rudhbrick/neetcode-submissions/tree/master/0279-perfect-squares) |
 | [0382-linked-list-random-node](https://github.com/rudhbrick/neetcode-submissions/tree/master/0382-linked-list-random-node) |
@@ -220,6 +221,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0162-find-peak-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudhbrick/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rudhbrick/neetcode-submissions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rudhbrick/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
@@ -567,6 +569,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0151-reverse-words-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rudhbrick/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudhbrick/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rudhbrick/neetcode-submissions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0344-reverse-string) |
