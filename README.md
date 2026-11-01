@@ -361,6 +361,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0394-decode-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/rudhbrick/neetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudhbrick/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/rudhbrick/neetcode-submissions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
@@ -479,6 +480,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0349-intersection-of-two-arrays](https://github.com/rudhbrick/neetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudhbrick/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/rudhbrick/neetcode-submissions/tree/master/0496-next-greater-element-i) |
@@ -527,6 +529,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudhbrick/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudhbrick/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rudhbrick/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
