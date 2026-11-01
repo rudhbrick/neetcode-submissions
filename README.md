@@ -362,6 +362,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0402-remove-k-digits](https://github.com/rudhbrick/neetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudhbrick/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/rudhbrick/neetcode-submissions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/rudhbrick/neetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/rudhbrick/neetcode-submissions/tree/master/0649-dota2-senate) |
@@ -482,6 +483,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0454-4sum-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/rudhbrick/neetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rudhbrick/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Prefix Sum
@@ -525,6 +527,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudhbrick/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudhbrick/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/rudhbrick/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 ## Greedy
 |  |
@@ -585,6 +588,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0344-reverse-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rudhbrick/neetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/rudhbrick/neetcode-submissions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rudhbrick/neetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0845-longest-mountain-in-array) |
