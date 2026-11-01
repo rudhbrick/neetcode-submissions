@@ -227,6 +227,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0209-minimum-size-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/rudhbrick/neetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/rudhbrick/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rudhbrick/neetcode-submissions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
@@ -418,6 +419,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0148-sort-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rudhbrick/neetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rudhbrick/neetcode-submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rudhbrick/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rudhbrick/neetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
@@ -466,6 +468,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0160-intersection-of-two-linked-lists](https://github.com/rudhbrick/neetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rudhbrick/neetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rudhbrick/neetcode-submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/rudhbrick/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rudhbrick/neetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
@@ -538,6 +541,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rudhbrick/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
@@ -754,6 +758,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0229-majority-element-ii) |
 ## Bucket Sort
 |  |
 | ------- |
