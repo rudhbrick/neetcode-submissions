@@ -3,8 +3,8 @@ class Solution{
         HashMap<Integer,Integer> mp=new HashMap<>();
         mp.put(0,1);
         int prefix=0,count=0;
-        for(int x:nums){
-            prefix+=x;
+        for(int num:nums){
+            prefix+=num;
             count+=mp.getOrDefault(prefix-k,0);
             mp.put(prefix,mp.getOrDefault(prefix,0)+1);
         }
