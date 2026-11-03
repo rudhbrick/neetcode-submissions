@@ -8,12 +8,11 @@ class Solution{
             }
         }
         if(pivot==-1){
-            int left=0;
-            int right=nums.length-1;
+            int left=0,right=nums.length-1;
             while(left<right){
-                int temp1=nums[left];
+                int temp=nums[left];
                 nums[left]=nums[right];
-                nums[right]=temp1;
+                nums[right]=temp;
                 left++;
                 right--;
             }
@@ -29,12 +28,11 @@ class Solution{
         int temp=nums[pivot];
         nums[pivot]=nums[candidate];
         nums[candidate]=temp;
-        int left=pivot+1;
-        int right=nums.length-1;
+        int left=pivot+1,right=nums.length-1;
         while(left<right){
-            int temp2=nums[left];
+            int t=nums[left];
             nums[left]=nums[right];
-            nums[right]=temp2;
+            nums[right]=t;
             left++;
             right--;
         }
