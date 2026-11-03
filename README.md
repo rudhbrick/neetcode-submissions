@@ -211,6 +211,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0018-4sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/rudhbrick/neetcode-submissions/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/rudhbrick/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rudhbrick/neetcode-submissions/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
@@ -578,6 +579,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/rudhbrick/neetcode-submissions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rudhbrick/neetcode-submissions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
