@@ -215,6 +215,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0031-next-permutation](https://github.com/rudhbrick/neetcode-submissions/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/rudhbrick/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rudhbrick/neetcode-submissions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/rudhbrick/neetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/rudhbrick/neetcode-submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0088-merge-sorted-array) |
@@ -278,6 +279,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rudhbrick/neetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0148-sort-list) |
@@ -510,6 +512,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rudhbrick/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/rudhbrick/neetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rudhbrick/neetcode-submissions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0070-climbing-stairs) |
