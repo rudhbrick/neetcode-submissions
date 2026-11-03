@@ -167,6 +167,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0300-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/rudhbrick/neetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/rudhbrick/neetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
+| [0493-reverse-pairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -242,6 +243,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0416-partition-equal-subset-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0454-4sum-ii) |
+| [0493-reverse-pairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/rudhbrick/neetcode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0503-next-greater-element-ii) |
@@ -281,6 +283,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0148-sort-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/rudhbrick/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0493-reverse-pairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -751,6 +754,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0493-reverse-pairs) |
 ## Timsort
 |  |
 | ------- |
@@ -833,10 +837,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Manacher
 |  |
@@ -865,4 +871,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rudhbrick/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0523-continuous-subarray-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
