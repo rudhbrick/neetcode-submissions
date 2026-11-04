@@ -1,21 +1,21 @@
 class Solution{
     public List<List<Integer>> threeSum(int[] nums){
-        Arrays.sort(nums);
         List<List<Integer>> ans=new ArrayList<>();
-        int left,right,third;
+        Arrays.sort(nums);
+        int left,right,third,n=nums.length;
         for(int i=0;i<nums.length;i++){
             if(i>0&&nums[i]==nums[i-1]) continue;
             third=nums[i];
             left=i+1;
-            right=nums.length-1;
+            right=n-1;
             while(left<right){
-                int sum=third+nums[left]+nums[right];
+                int sum=nums[left]+nums[right]+third;
                 if(sum<0){
                     left++;
                 }else if(sum>0){
                     right--;
                 }else{
-                    ans.add(Arrays.asList(third,nums[left],nums[right]));
+                    ans.add(Arrays.asList(nums[left],nums[right],third));
                     left++;
                     right--;
                     while(left<right&&nums[left]==nums[left-1]) left++;
