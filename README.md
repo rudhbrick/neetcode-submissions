@@ -281,6 +281,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rudhbrick/neetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudhbrick/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1313-decompress-run-length-encoded-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/1313-decompress-run-length-encoded-list) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rudhbrick/neetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rudhbrick/neetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rudhbrick/neetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -456,6 +457,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0948-bag-of-tokens](https://github.com/rudhbrick/neetcode-submissions/tree/master/0948-bag-of-tokens) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/rudhbrick/neetcode-submissions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rudhbrick/neetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
@@ -514,6 +516,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rudhbrick/neetcode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rudhbrick/neetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -899,4 +902,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0493-reverse-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rudhbrick/neetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
