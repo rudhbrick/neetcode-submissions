@@ -173,6 +173,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0701-insert-into-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rudhbrick/neetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1901-find-a-peak-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -278,6 +279,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/rudhbrick/neetcode-submissions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/rudhbrick/neetcode-submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1901-find-a-peak-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/rudhbrick/neetcode-submissions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Divide and Conquer
 |  |
@@ -460,6 +462,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0931-minimum-falling-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/rudhbrick/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudhbrick/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
 ## Union-Find
 |  |
 | ------- |
