@@ -4,12 +4,12 @@ class MyStack{
         q=new LinkedList<>();
     }
     public void push(int x){
-        q.add(x);
+        q.offer(x);
         int size=q.size();
-        for(int i=1;i<size;i++) q.add(q.remove());
+        for(int i=1;i<size;i++) q.offer(q.remove());
     }
     public int pop(){
-        return q.remove();
+        return q.poll();
     }
     public int top(){
         return q.peek();
