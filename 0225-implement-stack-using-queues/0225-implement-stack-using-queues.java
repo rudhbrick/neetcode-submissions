@@ -1,5 +1,5 @@
 class MyStack{
-    Queue<Integer> q;
+    Queue<Integer> q=new LinkedList<>();
     public MyStack(){
         q=new LinkedList<>();
     }
