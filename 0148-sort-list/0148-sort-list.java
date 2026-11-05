@@ -1,5 +1,5 @@
 class Solution{
-    ListNode merge(ListNode list1,ListNode list2){
+    ListNode mergeList(ListNode list1,ListNode list2){
         ListNode dummy=new ListNode(0);
         ListNode tail=dummy;
         while(list1!=null&&list2!=null){
@@ -12,7 +12,7 @@ class Solution{
             }
             tail=tail.next;
         }
-        tail.next=(list1!=null)?list1:list2;
+        tail.next=list1!=null?list1:list2;
         return dummy.next;
     }
     public ListNode sortList(ListNode head){
@@ -24,8 +24,8 @@ class Solution{
         }
         ListNode mid=slow.next;
         slow.next=null;
-        ListNode left=sortList(head);
-        ListNode right=sortList(mid);
-        return merge(left,right);
+        ListNode list1=sortList(head);
+        ListNode list2=sortList(mid);
+        return mergeList(list1,list2);
     }
 }
