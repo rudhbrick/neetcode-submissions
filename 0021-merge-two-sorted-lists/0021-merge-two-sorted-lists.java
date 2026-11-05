@@ -12,7 +12,7 @@ class Solution{
             }
             tail=tail.next;
         }
-        tail.next=(list1!=null)?list1:list2;
+        tail.next=list1!=null?list1:list2;
         return dummy.next;
     }
 }
