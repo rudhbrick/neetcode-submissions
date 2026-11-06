@@ -390,6 +390,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0647-palindromic-substrings](https://github.com/rudhbrick/neetcode-submissions/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/rudhbrick/neetcode-submissions/tree/master/0649-dota2-senate) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
+| [0784-letter-case-permutation](https://github.com/rudhbrick/neetcode-submissions/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/rudhbrick/neetcode-submissions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rudhbrick/neetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -862,6 +863,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0494-target-sum) |
+| [0784-letter-case-permutation](https://github.com/rudhbrick/neetcode-submissions/tree/master/0784-letter-case-permutation) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -895,6 +897,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0268-missing-number](https://github.com/rudhbrick/neetcode-submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rudhbrick/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [0784-letter-case-permutation](https://github.com/rudhbrick/neetcode-submissions/tree/master/0784-letter-case-permutation) |
 ## Pigeonhole Principle
 |  |
 | ------- |
