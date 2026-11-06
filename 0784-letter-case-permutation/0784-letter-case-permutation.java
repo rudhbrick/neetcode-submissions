@@ -19,10 +19,9 @@ class Solution{
         }
     }
     public List<String> letterCasePermutation(String s){
-        List<String> ans=new ArrayList<>();
         StringBuilder sb=new StringBuilder();
-        int index=0;
-        permutation(s,index,sb,ans);
+        List<String> ans=new ArrayList<>();
+        permutation(s,0,sb,ans);
         return ans;
     }
 }
