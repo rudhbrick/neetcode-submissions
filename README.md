@@ -259,6 +259,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0518-coin-change-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rudhbrick/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/rudhbrick/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/rudhbrick/neetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/rudhbrick/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -451,6 +452,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0268-missing-number](https://github.com/rudhbrick/neetcode-submissions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rudhbrick/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rudhbrick/neetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
+| [0621-task-scheduler](https://github.com/rudhbrick/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/rudhbrick/neetcode-submissions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/rudhbrick/neetcode-submissions/tree/master/0881-boats-to-save-people) |
@@ -513,6 +515,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0523-continuous-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rudhbrick/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/rudhbrick/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rudhbrick/neetcode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -570,6 +573,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0011-container-with-most-water](https://github.com/rudhbrick/neetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/rudhbrick/neetcode-submissions/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/rudhbrick/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/rudhbrick/neetcode-submissions/tree/master/0649-dota2-senate) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/rudhbrick/neetcode-submissions/tree/master/0881-boats-to-save-people) |
@@ -579,6 +583,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rudhbrick/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/rudhbrick/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 ## Counting
 |  |
@@ -587,6 +592,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0229-majority-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rudhbrick/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/rudhbrick/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
 ## Bracket Sequences
 |  |
