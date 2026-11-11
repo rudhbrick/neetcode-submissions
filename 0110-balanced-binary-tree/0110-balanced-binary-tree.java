@@ -1,11 +1,11 @@
 class Solution{
     int dfs(TreeNode root){
         if(root==null) return 0;
-        int leftHeight=dfs(root.left),rightHeight=dfs(root.right);
-        if(leftHeight==-1) return -1;
-        if(rightHeight==-1) return -1;
-        if(Math.abs(leftHeight-rightHeight)>1) return -1;
-        return 1+Math.max(leftHeight,rightHeight);
+        int left=dfs(root.left),right=dfs(root.right);
+        if(left==-1) return -1;
+        if(right==-1) return -1;
+        if(Math.abs(left-right)>1) return -1;
+        return 1+Math.max(left,right);
     }
     public boolean isBalanced(TreeNode root){
         return dfs(root)!=-1;
