@@ -158,6 +158,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/rudhbrick/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -221,6 +222,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0027-remove-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rudhbrick/neetcode-submissions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/rudhbrick/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rudhbrick/neetcode-submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rudhbrick/neetcode-submissions/tree/master/0053-maximum-subarray) |
