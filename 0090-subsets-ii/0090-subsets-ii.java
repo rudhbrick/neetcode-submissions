@@ -15,6 +15,7 @@ class Solution{
         ans=new ArrayList<>();
         subset=new ArrayList<>();
         this.nums=nums;
+        Arrays.sort(nums);
         backtrack(0);
         return ans;
     }
