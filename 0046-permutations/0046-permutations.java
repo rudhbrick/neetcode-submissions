@@ -1,8 +1,8 @@
 class Solution{
     List<List<Integer>> ans;
-    int[] nums;
     List<Integer> permutation;
     boolean[] visited;
+    int[] nums;
     void backtrack(){
         if(permutation.size()==nums.length){
             ans.add(new ArrayList<>(permutation));
@@ -22,7 +22,6 @@ class Solution{
         permutation=new ArrayList<>();
         visited=new boolean[nums.length];
         this.nums=nums;
-        Arrays.fill(visited,false);
         backtrack();
         return ans;
     }
