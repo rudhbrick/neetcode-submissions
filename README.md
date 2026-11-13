@@ -237,6 +237,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rudhbrick/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/rudhbrick/neetcode-submissions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/rudhbrick/neetcode-submissions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rudhbrick/neetcode-submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/rudhbrick/neetcode-submissions/tree/master/0152-maximum-product-subarray) |
@@ -916,6 +917,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0078-subsets](https://github.com/rudhbrick/neetcode-submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/rudhbrick/neetcode-submissions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rudhbrick/neetcode-submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rudhbrick/neetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0784-letter-case-permutation](https://github.com/rudhbrick/neetcode-submissions/tree/master/0784-letter-case-permutation) |
