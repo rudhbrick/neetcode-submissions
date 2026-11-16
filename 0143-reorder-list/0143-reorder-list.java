@@ -16,8 +16,7 @@ class Solution{
         }
         second=prev;
         while(second!=null){
-            ListNode firstNext=first.next;
-            ListNode secondNext=second.next;
+            ListNode firstNext=first.next,secondNext=second.next;
             first.next=second;
             second.next=firstNext;
             first=firstNext;
