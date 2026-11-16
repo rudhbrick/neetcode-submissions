@@ -1,5 +1,5 @@
 class Solution{
-    int diameter=0;
+    int diameter;
     int dfs(TreeNode root){
         if(root==null) return 0;
         int leftHeight=dfs(root.left),rightHeight=dfs(root.right);
