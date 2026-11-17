@@ -306,6 +306,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0994-rotting-oranges](https://github.com/rudhbrick/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rudhbrick/neetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/rudhbrick/neetcode-submissions/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudhbrick/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1313-decompress-run-length-encoded-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rudhbrick/neetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -624,6 +625,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0621-task-scheduler](https://github.com/rudhbrick/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rudhbrick/neetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/rudhbrick/neetcode-submissions/tree/master/0767-reorganize-string) |
+| [1046-last-stone-weight](https://github.com/rudhbrick/neetcode-submissions/tree/master/1046-last-stone-weight) |
 ## Counting
 |  |
 | ------- |
