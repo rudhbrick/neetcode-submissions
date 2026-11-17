@@ -264,6 +264,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0200-number-of-islands](https://github.com/rudhbrick/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rudhbrick/neetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/rudhbrick/neetcode-submissions/tree/master/0238-product-of-array-except-self) |
@@ -323,6 +324,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/rudhbrick/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0493-reverse-pairs) |
@@ -482,6 +484,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0147-insertion-sort-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rudhbrick/neetcode-submissions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rudhbrick/neetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rudhbrick/neetcode-submissions/tree/master/0242-valid-anagram) |
@@ -621,6 +624,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rudhbrick/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/rudhbrick/neetcode-submissions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rudhbrick/neetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -863,6 +867,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rudhbrick/neetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 ## Knapsack Problem
 |  |
