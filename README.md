@@ -290,6 +290,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0622-design-circular-queue](https://github.com/rudhbrick/neetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/rudhbrick/neetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/rudhbrick/neetcode-submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/rudhbrick/neetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/rudhbrick/neetcode-submissions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/rudhbrick/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/rudhbrick/neetcode-submissions/tree/master/0735-asteroid-collision) |
@@ -357,6 +358,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0606-construct-string-from-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0606-construct-string-from-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/rudhbrick/neetcode-submissions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/rudhbrick/neetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rudhbrick/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
@@ -454,6 +456,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0322-coin-change](https://github.com/rudhbrick/neetcode-submissions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/rudhbrick/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rudhbrick/neetcode-submissions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/rudhbrick/neetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rudhbrick/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0993-cousins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/rudhbrick/neetcode-submissions/tree/master/0994-rotting-oranges) |
@@ -508,6 +511,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0074-search-a-2d-matrix](https://github.com/rudhbrick/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/rudhbrick/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/rudhbrick/neetcode-submissions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/rudhbrick/neetcode-submissions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/rudhbrick/neetcode-submissions/tree/master/0994-rotting-oranges) |
@@ -520,6 +524,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0200-number-of-islands](https://github.com/rudhbrick/neetcode-submissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rudhbrick/neetcode-submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rudhbrick/neetcode-submissions/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/rudhbrick/neetcode-submissions/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
