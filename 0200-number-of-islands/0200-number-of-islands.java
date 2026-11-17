@@ -12,8 +12,8 @@ class Solution{
         for(int r=0;r<grid.length;r++){
             for(int c=0;c<grid[0].length;c++){
                 if(grid[r][c]=='1'){
-                    dfs(grid,r,c);
                     islands++;
+                    dfs(grid,r,c);
                 }
             }
         }
