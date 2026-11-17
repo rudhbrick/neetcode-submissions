@@ -156,6 +156,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0993-cousins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1145-binary-tree-coloring-game](https://github.com/rudhbrick/neetcode-submissions/tree/master/1145-binary-tree-coloring-game) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -215,6 +216,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0993-cousins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1145-binary-tree-coloring-game](https://github.com/rudhbrick/neetcode-submissions/tree/master/1145-binary-tree-coloring-game) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Array
 |  |
@@ -349,6 +351,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0979-distribute-coins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/rudhbrick/neetcode-submissions/tree/master/1145-binary-tree-coloring-game) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -445,6 +448,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0993-cousins-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/rudhbrick/neetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudhbrick/neetcode-submissions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Monotonic Stack
 |  |
