@@ -6,11 +6,8 @@ class MinStack{
     }
     public void push(int value){
         st.push(value);
-        if(!minSt.isEmpty()){
-            minSt.push(Math.min(minSt.peek(),value));
-        }else{
-            minSt.push(value);
-        }
+        if(!minSt.isEmpty()) minSt.push(Math.min(minSt.peek(),value));
+        else minSt.push(value);
     }
     public void pop(){
         st.pop();
