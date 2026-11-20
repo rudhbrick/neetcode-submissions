@@ -18,9 +18,7 @@ class Solution{
                         st.push(b/a);
                         break;
                 }
-            }else{
-                st.push(Integer.parseInt(c));
-            }
+            }else st.push(Integer.parseInt(c));
         }
         return st.pop();
     }
