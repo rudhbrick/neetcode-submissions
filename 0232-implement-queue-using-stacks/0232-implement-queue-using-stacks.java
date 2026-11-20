@@ -1,6 +1,5 @@
 class MyQueue{
-    Stack<Integer> in;
-    Stack<Integer> out;
+    Stack<Integer> in,out;
     public MyQueue(){
         in=new Stack<>();
         out=new Stack<>();
@@ -9,20 +8,12 @@ class MyQueue{
         in.push(x);
     }
     public int pop(){
-        if(out.isEmpty()){
-            while(!in.isEmpty()) out.push(in.pop());
-            return out.pop();
-        }else{
-            return out.pop();
-        }
+        if(out.isEmpty()) while(!in.isEmpty()) out.push(in.pop());
+        return out.pop();
     }
     public int peek(){
-        if(out.isEmpty()){
-            while(!in.isEmpty()) out.push(in.pop());
-            return out.peek();
-        }else{
-            return out.peek();
-        }
+        if(out.isEmpty()) while(!in.isEmpty()) out.push(in.pop());
+        return out.peek();
     }
     public boolean empty(){
         return in.isEmpty()&&out.isEmpty();
