@@ -1,5 +1,5 @@
 class Solution{
-    public ListNode reverseKGroup(ListNode head, int k){
+    public ListNode reverseKGroup(ListNode head,int k){
         ListNode prev=null,curr=head;
         for(int i=0;i<k;i++){
             if(curr==null) return head;
