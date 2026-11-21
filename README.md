@@ -101,6 +101,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0622-design-circular-queue](https://github.com/rudhbrick/neetcode-submissions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
@@ -694,6 +695,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0881-boats-to-save-people](https://github.com/rudhbrick/neetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/rudhbrick/neetcode-submissions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rudhbrick/neetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Memoization
 |  |
 | ------- |
