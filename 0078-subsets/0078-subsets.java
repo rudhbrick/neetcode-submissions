@@ -1,6 +1,6 @@
 class Solution{
-    List<List<Integer>> ans=new ArrayList<>();
-    List<Integer> subset=new ArrayList<>();
+    List<List<Integer>> ans;
+    List<Integer> subset;
     int[] nums;
     void backtrack(int index){
         if(index==nums.length){
