@@ -3,7 +3,7 @@ class Solution{
     List<Integer> permutation;
     boolean[] visited;
     int[] nums;
-    void backtrack(){
+    void backtrack(int index){
         if(permutation.size()==nums.length){
             ans.add(new ArrayList<>(permutation));
             return;
@@ -12,7 +12,7 @@ class Solution{
             if(visited[i]) continue;
             visited[i]=true;
             permutation.add(nums[i]);
-            backtrack();
+            backtrack(i+1);
             permutation.remove(permutation.size()-1);
             visited[i]=false;
         }
@@ -22,7 +22,7 @@ class Solution{
         permutation=new ArrayList<>();
         visited=new boolean[nums.length];
         this.nums=nums;
-        backtrack();
+        backtrack(0);
         return ans;
     }
 }
