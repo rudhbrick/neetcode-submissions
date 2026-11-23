@@ -187,6 +187,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0701-insert-into-a-binary-search-tree](https://github.com/rudhbrick/neetcode-submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/rudhbrick/neetcode-submissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/rudhbrick/neetcode-submissions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/rudhbrick/neetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rudhbrick/neetcode-submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rudhbrick/neetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1901-find-a-peak-element-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
@@ -300,6 +301,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0746-min-cost-climbing-stairs](https://github.com/rudhbrick/neetcode-submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0845-longest-mountain-in-array) |
 | [0853-car-fleet](https://github.com/rudhbrick/neetcode-submissions/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/rudhbrick/neetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/rudhbrick/neetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0931-minimum-falling-path-sum) |
 | [0946-validate-stack-sequences](https://github.com/rudhbrick/neetcode-submissions/tree/master/0946-validate-stack-sequences) |
