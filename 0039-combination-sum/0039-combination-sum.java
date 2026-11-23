@@ -1,7 +1,7 @@
 class Solution{
     List<List<Integer>> ans;
-    int[] candidates;
     List<Integer> combination;
+    int[] candidates;
     void backtrack(int index,int remaining){
         if(remaining==0){
             ans.add(new ArrayList<>(combination));
@@ -14,9 +14,9 @@ class Solution{
         backtrack(index+1,remaining);
     }
     public List<List<Integer>> combinationSum(int[] candidates,int target){
-        this.candidates=candidates;
         ans=new ArrayList<>();
         combination=new ArrayList<>();
+        this.candidates=candidates;
         backtrack(0,target);
         return ans;
     }
