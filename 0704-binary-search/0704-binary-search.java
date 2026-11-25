@@ -5,7 +5,7 @@ class Solution{
             int mid=left+(right-left)/2;
             if(nums[mid]<target) left=mid+1;
             else if(nums[mid]>target) right=mid-1;
-            else return mid;
+            else return mid; 
         }
         return -1;
     }
