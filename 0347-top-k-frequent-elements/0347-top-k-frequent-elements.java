@@ -2,7 +2,7 @@ class Solution{
     public int[] topKFrequent(int[] nums,int k){
         HashMap<Integer,Integer> mp=new HashMap<>();
         List<int[]> freq=new ArrayList<>();
-        int[] ans=new int[k];
+        int[] ans=new int [k];
         for(int num:nums) mp.put(num,mp.getOrDefault(num,0)+1);
         for(Map.Entry<Integer,Integer> entry:mp.entrySet()) freq.add(new int[]{entry.getKey(),entry.getValue()});
         freq.sort((a,b)->b[1]-a[1]);
