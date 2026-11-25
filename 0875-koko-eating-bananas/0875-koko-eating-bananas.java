@@ -5,7 +5,7 @@ class Solution{
         while(left<=right){
             int mid=left+(right-left)/2;
             long total=0;
-            for(int pile:piles) total+=(pile+mid-1)/mid;
+            for(int pile:piles) total+=(mid+pile-1)/mid;
             if(total>h) left=mid+1;
             else{
                 ans=mid;
