@@ -241,6 +241,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rudhbrick/neetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/rudhbrick/neetcode-submissions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/rudhbrick/neetcode-submissions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/rudhbrick/neetcode-submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rudhbrick/neetcode-submissions/tree/master/0053-maximum-subarray) |
@@ -591,6 +592,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rudhbrick/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/rudhbrick/neetcode-submissions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rudhbrick/neetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rudhbrick/neetcode-submissions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rudhbrick/neetcode-submissions/tree/master/0062-unique-paths) |
@@ -631,6 +633,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rudhbrick/neetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/rudhbrick/neetcode-submissions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rudhbrick/neetcode-submissions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/rudhbrick/neetcode-submissions/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/rudhbrick/neetcode-submissions/tree/master/0621-task-scheduler) |
