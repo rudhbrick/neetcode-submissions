@@ -410,6 +410,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudhbrick/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/rudhbrick/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/rudhbrick/neetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rudhbrick/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/rudhbrick/neetcode-submissions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rudhbrick/neetcode-submissions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/rudhbrick/neetcode-submissions/tree/master/0071-simplify-path) |
@@ -588,6 +589,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rudhbrick/neetcode-submissions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/rudhbrick/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/rudhbrick/neetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rudhbrick/neetcode-submissions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0064-minimum-path-sum) |
@@ -656,6 +658,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rudhbrick/neetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rudhbrick/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rudhbrick/neetcode-submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Two Pointers
 |  |
@@ -922,6 +925,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rudhbrick/neetcode-submissions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/rudhbrick/neetcode-submissions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rudhbrick/neetcode-submissions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/rudhbrick/neetcode-submissions/tree/master/0078-subsets) |
